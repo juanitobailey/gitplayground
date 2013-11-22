@@ -1,0 +1,9 @@
+This is my document I am trying to learn git I hope this will
+
+a. Improve my chances of becoming a developer again
+
+b. Help me understand the guys at the office
+
+c. Allow me to get a better grip of life as a developer.
+
+d. keep my wife happy
